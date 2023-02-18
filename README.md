@@ -1,3 +1,3 @@
-# Sample Application for AWS DevOps Course
+# Sample Application for practice
 
-#updated this file
+
